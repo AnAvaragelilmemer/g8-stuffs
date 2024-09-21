@@ -7,7 +7,7 @@
 1. [Music](#Music)
 2. [Arts](#Arts)
 3. [Physical Education](#PhysicalEducation)
-4. [Arts](#Arts)
+4. [Health](#Health)
 # Music
 ### Music of Cambodia & Myanmar
 
