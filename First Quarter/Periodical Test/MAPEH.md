@@ -177,4 +177,51 @@ West Asia.
  ... | ... | Phra Bang | Confucianism | Jepora | Ukirankasar | ... | Darussalan (?)
  ... | ... | ... | Buddhism | Wayang Kulit | ... | ... | ...
 
+ # PhysicalEducation
+ <sub>misskonasya guys di ko na kaya di ko na kaya di ko na kaya</sub>
 
+### Family FITT Fitness Plan
+- F = Frequency
+- I = Intensity
+- T = Time
+- T = Type
+
+---
+
+- **Physical Activity** Refers to an Activity that involves the contraction of muscles
+- **Exercise** Is specifiic form of physical activity that is planned and structured involving repetitive bodily movement
+- **Physical Fitness** Is the set of goals that people have or achieved that related to their ability to perform a physical activity
+### Amount of Physical activity needed for the family members
+- We must be aware of the intensity of physical activity we need.
+- It is recommended that children and adolescents participate *in at least 60 minutes of moderate intensity physical activity daily.*
+- And adults should engage in *moderate intensity physical activity for at least 30 minutes in three or more days a week*
+### Importance of Regular Physical Activity
+- Reduce the risk of coronary disease
+- Reduces the risk of colon cancer, diabetes, high blood pressure, and stroke
+- Reduces symptoms of anxiety and depression
+- Controls body weight and maintain healthy bones,
+muscles, and joints.
+
+<sub>Additional Notes: https://drive.google.com/file/d/1uScow6n131sjhPTtd8AOwoGY5GmF6cTv/view , at page 10-16 </sub>
+
+# Health 
+<sub>wakas.</sub>
+### Managing Sexual-Related Issues
+- **Family** encourage you when you are surrounded by problems.
+- Developing a **self-concept and image** is an important developmental step during adolescence.
+- Responsible sexual behavior, sensitivity, and
+equity in gender relations, particularly when instilled
+### MANAGE (acrostic)
+- M = making responsible decisions
+- A = access to education and service
+- N = Networking with support group
+- A = Alternatives are necessary
+- G = goal setting
+- E = Evaluating plans and actions
+### SMART (acrostic, Only at Goal Setting.)
+- S = **Specific** – you can clearly see what it is you what you achieve.
+- M = **Measureable** – You nee to measure the progress and some specific criteria that will tell you when the goal is achieve.
+- A = **Attainable** – Goals that are realistic and attainable will give you more motivation and sense of achievement.
+- R = **Rewarding** - It is important that the goal is yours. It is rewarding when you have clear reasons why you want to achieve the goal.
+- T = **Timely** – Setting a time frame will protect you from procrastination.
+<sub>More meaning of MANAGE at: https://drive.google.com/file/d/18BgcBKg3g8UkOfOS_-CP9RXp92tI51j-/view </sub>
