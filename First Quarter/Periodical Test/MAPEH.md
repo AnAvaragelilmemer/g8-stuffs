@@ -160,11 +160,11 @@ and temples in Cambodia.
 
   
 In Brunei Darussalam, men's headgears are categorized into three:
-1. Dastar – a piece of cloth tied
+1. **Dastar** – a piece of cloth tied
 around the head
-2. Songkok – type of cap made of
+2. **Songkok** – type of cap made of
 velvet
-3. Tengkolok – looks like a turban
+3. **Tengkolok** – looks like a turban
 and is a typical headdress of the
 West Asia.
 
