@@ -224,4 +224,6 @@ equity in gender relations, particularly when instilled
 - A = **Attainable** – Goals that are realistic and attainable will give you more motivation and sense of achievement.
 - R = **Rewarding** - It is important that the goal is yours. It is rewarding when you have clear reasons why you want to achieve the goal.
 - T = **Timely** – Setting a time frame will protect you from procrastination.
-<sub>More meaning of MANAGE at: https://drive.google.com/file/d/18BgcBKg3g8UkOfOS_-CP9RXp92tI51j-/view </sub>
+
+
+<sub>More meaning of MANAGE at: https://drive.google.com/file/d/18BgcBKg3g8UkOfOS_-CP9RXp92tI51j-/view , sorry if this was lacking alot. </sub>
