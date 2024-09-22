@@ -206,6 +206,16 @@ muscles, and joints.
 
 # Health 
 <sub>wakas.</sub>
+### Sexual Behaviors, Attitudes, and Practices
+- **Heterosexuality** - This is the sexual attraction to the opposite sex.
+- **Homosexuality** - This is the sexual attraction to the same sex
+- **Premartial Sex** - This is any sexual activity with an opposite sex partner or the same sex partner before she/he starts a married life.
+---
+
+- Teens today are too cursious and experiment with sex in unprecedented numbers.
+- Teenagers must be trained to mingle with the opposite sex in a mature and responsible way.
+- Teens also expose themselves to the risk of sexually transmitted diseases in addtion to an unwanted pregnancy
+
 ### Managing Sexual-Related Issues
 - **Family** encourage you when you are surrounded by problems.
 - Developing a **self-concept and image** is an important developmental step during adolescence.
