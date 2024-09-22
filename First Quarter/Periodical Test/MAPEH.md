@@ -209,7 +209,7 @@ muscles, and joints.
 ### Sexual Behaviors, Attitudes, and Practices
 - **Heterosexuality** - This is the sexual attraction to the opposite sex.
 - **Homosexuality** - This is the sexual attraction to the same sex
-- **Premartial Sex** - This is any sexual activity with an opposite sex partner or the same sex partner before she/he starts a married life.
+- **Premarital Sex** - This is any sexual activity with an opposite sex partner or the same sex partner before she/he starts a married life.
 ---
 
 - Teens today are too cursious and experiment with sex in unprecedented numbers.
