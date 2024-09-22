@@ -1,9 +1,6 @@
- ```diff
-+ misskonasya
-+ MAPEH Notes
-+ Please note that this is only for SY 2024-2025 students. More Specifically G8 students
-```
-# Tables Of Content
+# MAPEH notes
+<sub>For my periodical exam! (also for SY 2024-2025 G8 students.</sub>
+## Tables Of Content
 1. [Music](#Music)
 2. [Arts](#Arts)
 3. [Physical Education](#PhysicalEducation)
@@ -135,4 +132,49 @@ and temples in Cambodia.
 
 
 # Arts
-- INCOMPLETE.
+
+### Handicrafts of the Cambodia and Laos
+- Most live in the rural areas within Cambodia, they are commonly called *highlanders.*
+- handicrafts are part of their traditional culture and their livelihood.
+
+
+---
+
+- The *Sa Paper* was used for calligraphy and for making festive temple decarations, umbrellas, fans, and kites.
+
+
+### Silk Painting in Vietnam
+- One of the most popular forms of art is their french-influenced silk painting or locally known as *tranh lua*
+- The Vietnamese style in painting usually showcase the countryside, landscapes, pagodas, historical events, and common everyday life scenarios.
+### Indonesian Wayang Kulit
+- **Wayang** means "To Show" or "To perform"
+- **Kulit** means "Skin"
+- Also associated with the indonesian word **Baying**, meaning "Shadow"
+### Wayang Kulit
+<sub>A puppet shadow play</sub>
+- This originated from a Javanese Hindu-Buddhist tradition where handcrafted leather puppets protray epic stories.
+### Songkok 
+<sub>Originating from Brunei</sub>
+- Also known as **peci** or **kopiah**, is a *cap* widely worn in indonesia, Brunei, Malaysia, Singapore.
+- Is usually worn by Muslim males in formal gatherings such as weddings, feasts, funerals, or festive occasions.
+
+  
+In Brunei Darussalam, men's headgears are categorized into three:
+1. Dastar – a piece of cloth tied
+around the head
+2. Songkok – type of cap made of
+velvet
+3. Tengkolok – looks like a turban
+and is a typical headdress of the
+West Asia.
+
+**Songkok** is an important part of Brunei's Tradition.
+
+### Southeast Asian Architectures and Sculptures
+ Thailand  | Cambodia | Laos | Vietnam | Indonesia | Malaysia | Singapore | Brunei
+ --------- | -------- | ---- | ------- | --------- | -------- | --------  | ------
+ Thai Flying Sky Lantern  | Angkor Wat | Phra Say | Taoism | Pelaminan Gebyok | Ukiranhalus | Marlion | The World Of Asean
+ ... | ... | Phra Bang | Confucianism | Jepora | Ukirankasar | ... | Darussalan (?)
+ ... | ... | ... | Buddhism | Wayang Kulit | ... | ... | ...
+
+
