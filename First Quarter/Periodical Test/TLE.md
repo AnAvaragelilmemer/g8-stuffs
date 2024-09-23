@@ -164,6 +164,9 @@ am not writing allat, go to page 57.
 - **Republic Act 10354** - Responsible parenthood and reproductive health act of 2012
 - **Republic Act 8749** - Philippine Clean Air Act of 1999
 
+---
+
+- Enumeration at page 66-67 (not including encapsule it)
 
   <sub>jusko tapos na rin, misskonasya guys.</sub>
 
