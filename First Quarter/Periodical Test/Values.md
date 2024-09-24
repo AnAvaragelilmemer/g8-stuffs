@@ -89,5 +89,6 @@
 7. Worship without sacrifice.
 
 <sub>Am NOT putting the social responsibility of the family living their heritage and political role of family in society</sub>
+
+
 politikos - "of, for, or relating to citizens"
----
