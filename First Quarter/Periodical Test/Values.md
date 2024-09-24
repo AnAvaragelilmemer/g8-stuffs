@@ -29,7 +29,7 @@
 ---
 
 - **True Freedom**, Education is the only thing that can give real freedom.
-  - **Rabindrath tagore**, is the indian poet and the first asian nobel laureate for literature.
+  - **Rabindranath tagore**, is the indian poet and the first asian nobel laureate for literature.
 - **Justice** is the virture observed when what is due is given to people
   - We have to be aware to the needs of other people
 - **Self-Giving Love**, The love and respect that exist between a father and a mother is a basic unwritten concept that is acquired thru imitaion.
@@ -39,7 +39,7 @@
 ## Barriers to the family's ability to exercise its mission.
 - **Absentee parenting**, There are approx. 10 million filipino children under the age of 18
 - **Negative influence of media**, Young minds are most susceptible to media's portrayal of beauty,money, and comfort
-- **Unstable Marital Unisons**, Couple unions that are not within the norms and customs of marriage usually result in challenges
+- **Unstable Marital Unions**, Couple unions that are not within the norms and customs of marriage usually result in challenges
 ## Interpersonal Communication in the family
 <sub>Effective interpersonal communication is an important characteristic of strong families</sub>
 
