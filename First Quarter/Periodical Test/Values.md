@@ -9,7 +9,7 @@
 
 **Romans 13:1**
 
-"Let everyone be subject to the governing authorities, for there is no authority expect that which god has established. the authorities that exist have been established by god"
+"Let everyone be subject to the governing authorities, for there is no authority except that which god has established. the authorities that exist have been established by god"
 
 **Colassians 3:21**
 
