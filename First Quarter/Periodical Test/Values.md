@@ -11,11 +11,10 @@
 
 "Let everyone be subject to the governing authorities, for there is no authority expect that which god has established. the authorities that exist have been established by god"
 
-**Colassians 3:1**
+**Colassians 3:21**
 
-"Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God."
+"Fathers do not provoke your children to anger by the way you treat them. Rather, bring them discipline and instruction that comes from the Lord"
 
-<sub>May be unaccurate, why is the colossians 3:1 in the pointers anyway?</sub>
 
 ## Mission of the family
 
