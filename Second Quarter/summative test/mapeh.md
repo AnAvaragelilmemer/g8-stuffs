@@ -158,4 +158,27 @@
   - Two types of passing: </mark>Air Pass and Bounce Pass</mark>
 - **Running**
   - <mark>Speed defines the best player in sport</mark>, used in offensive or defensive plays.
-
+## Health
+<sub>dating, courtship, marriage</sub>
+- **Dating**
+  - <mark>Can enchance one's relation skills</mark>, socialization with people
+- **Courtship**
+  - <mark> is the period in a couple’s relationship which precedes their engagement and marriage</mark>
+- **Pamamanhikan**
+  - where the man and his family visit the woman's family and ask blessings from the parents to marry their daughter.
+- **Marriage**
+  - is a lifelong partnership and bond between a man and a woman
+- **Family Code of the 1987 Philippine Constitution**
+  - states that "The marriage is a special contract of permanent union between a man and a woman"
+- **Maturity**
+  - <mark>The one who can make wise decisions</mark>; responsible in handling relationships.
+- **Fidelity**
+  - <mark>The one who is sincere and true to his/her promise</mark>; faithful to his/her partner.
+- **Commitment**
+  - <mark>The one who is dedicated tohis/her responsibilities, and stands for what is right and good for the relationship and the family</mark>
+- **Love**
+  - The one who understands and accepts his/her partner;
+- **Economic Stability**
+  - The one who provides the needs of the family
+- **Character**
+  - Character - The one who is God-fearing; honest and sincere; respectful and compassionate.
