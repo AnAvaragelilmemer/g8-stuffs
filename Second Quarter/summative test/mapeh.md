@@ -1,7 +1,7 @@
 # MAPEH
 <sub>time to recreate what i destroyed</sub>
 # P.T.R
-![hihi](https://github.com/AnAvaragelilmemer/g8-stuffs/blob/main/image.png)
+![hihi](https://github.com/AnAvaragelilmemer/g8-stuffs/blob/main/wow.png)
 # Bookmarks
 - [Music](#Music)
 - [Arts](#Arts)
@@ -132,4 +132,30 @@
   - <mark> also indicates that the character is evil and hypocritical and commonly used by powerful villain. </mark>
 - **Gold and silver**
   - <mark>exhibit character of a good or a demon. This can also be associated with ghost or a spirit. It also symbolizes mystery.</mark>
+# PE
+<sub>yoko na</sub>
+## Basketball
+- <mark>Is a team sports where a player aims to shoot a ball through a basket horizontally</mark> positioned to score points while following a set of rules.
+- <mark>This is played by two teams comprised of 5 players</mark>
+- Various fouls:
+  - Personal Foul
+  - Technical Foul - </mark>happens when certain infractions occur<mark>,most commonly unsportsmanlike behavior on the part of a player.
+  - Travelling - </mark>Moving without dribbling the ball<mark>
+  - Double Dribbling - </mark>Holding the ball with both hands<mark>
+## the court
+![hihi](https://github.com/AnAvaragelilmemer/g8-stuffs/blob/main/image.png)
+
+## History of Basketball
+- Invented by <mark>James Naismith</mark> at december 1891
+## Basketball Skills
+- **Shooting**
+  - <mark>This is the first basic skill to be learned</mark>
+  - keep BEEF <mark>(Balance your body, elbow in, eyes on target, follow through)</mark>
+- **Dribbling**
+  - <mark>This allows you to advance with the ball and move around</mark>
+- **Passing**
+  - <mark>This is one of the most important skills on basketball</mark>
+  - Two types of passing: </mark>Air Pass and Bounce Pass</mark>
+- **Running**
+  - <mark>Speed defines the best player in sport</mark>, used in offensive or defensive plays.
 
