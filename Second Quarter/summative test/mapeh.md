@@ -68,7 +68,7 @@
 - **Dizi**
   - <mark>It is a bamboo instrument with 6 finger holes</mark>
 - **Xiao** (ironic)
-  - <mark>Vertical end-blow flute made from bamboo</mark
+  - <mark>Vertical end-blow flute made from bamboo</mark>
 - **Suona**
   - same as xiao
 - **Sheng**
