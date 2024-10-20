@@ -3,13 +3,9 @@
 
 ## $${\color{#59d98c}Memory \space Verses}$$ 
 - **Hebrews 10:24**
-```
-And let us consider how we may spot one another on towards love and good deeds.
-```
+  - And let us consider how we may spot one another on towards love and good deeds.
 - **John 15:12**
-```
-Greater love has no one than this: To lay down one's life for one's friends
-```
+  - Greater love has no one than this: To lay down one's life for one's friends
 ## $${\color{#ffffff}Building \space \color{#FF69B4}Relationships}$$
 - **Philippines** - Declared as the <mark><i>"Social networking capital of the world"</i></mark>
 - **Synovate** - a global research
