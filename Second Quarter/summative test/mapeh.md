@@ -183,4 +183,4 @@
 - **Economic Stability**
   - The one who provides the needs of the family
 - **Character**
-  - Character - The one who is God-fearing; honest and sincere; respectful and compassionate.
+  - The one who is God-fearing; honest and sincere; respectful and compassionate.
