@@ -1,0 +1,173 @@
+# TLE
+<sub>this contains tle notes, no crap sherlock!</sub>
+- **Hospitality**
+  - <mark>The comfort and satisfaction of guests are the foremost priority</mark> of any lodging establishment
+- **Four stages of the guest cycle**:
+  - pre-arrival
+  - arrival
+  - occupancy
+  - depature
+## Front office tools
+- **Credit card voucher holder**
+  - <mark>is used to hold the credit card during business transactions</mark> to make it easier and organized
+- **Currency detector**
+  - <mark>is used to determine wheter bills or coins are genuine</sub> or counterfeit
+- **Sundry stationery items**
+  - <mark>are used to process and manage documents during clerical functions</mark>
+- **Credit card imprinter**
+  - <mark>is used to process credit card payment transactions</mark>
+- **calculator**
+  - <mark>is used in financial computations for amounts of expenses,charges, commissions</mark>
+## Front office equipment
+- **Computer**
+  - <mark>is used for the digital montoring of accounts and profiling of the guests.</mark>
+- **Printer**
+  - <mark>is used to print hard copies of documents</mark>
+- **Cash register**
+  - <mark>is used to calculate and record sales transactions</mark>
+- **Surveilance camera**
+  - <mark>is used to record all the actions, movements, and other daily incidence</mark>
+- **Telephone**
+  - <mark>is used for front office and interoffice communications</mark>
+- **fax machine**
+  - <mark>is used to reproduce a printed document by electronically scanning</mark>
+## Front office paraphernalia
+- **Key rack**
+  - <mark>is used to hold the room keys</mark>
+- **Safety deposit box**
+  - <mark> is used to store valuable possesions like money and other important documents of guests</mark>
+- **Lapel microphone**
+  - <mark> is used for public speaking applications</mark> to allow hands-free operation
+- **Filing cabinet**
+  - <mark> is used to store, maintain, and protect hard copies of both internal and external documents</mark>
+- **Two-way walkie talkie**
+  - <mark>is used by the security personnel to communicate with each other during their patrol around hotel premises</mark>
+## Other materials and forms
+- **Logbook**
+  - is used to record information about daily activities in the front office</mark>
+- **room key/card**
+  - <mark>is used to provide secure access to hotel rooms to avoid potential theft</mark>
+- **Corkboard**
+  - <mark>is used to display public information such as guidelines, notices, and promotions</mark>
+- **Guest folio rack**
+  - <mark>is used to manually maintain the hotel folios of the front office</mark>
+- **Room rack**
+  - <mark> is used to assist the front desk officer to access registration forms</mark> containing all guest names and room numbers
+- **Empty envelopes**
+  - <mark> are used to hold written hotel documents</mark> for staff or guest use</mark>
+- **Luggage tag**
+  - <mark>is used to identify the guests bags</mark> and other personal belongings while in travel
+- **Complaints register form**
+  - <mark> is used to note all guest complaints</mark>
+- **Guest folio form**
+  - <mark> is used to record each guests cash and credit transactions</mark>
+- **Daily running sheet**
+  - <mark>is used as a checklist of duties to be completed</mark>
+- **errand card**
+  -<mark>is used to track the guests' luggage movements in the hotel for check-in</mark and checkout stay
+## Using front office, tools, equipment, and paraphernalia
+- **Steps to turn on the computer**
+  - make sure all power cables are connected to an electric source
+  - turn on the central processing unit by pressing the power button or the casing
+  - turn on the monitor by pressing its power button
+  - wait until the boot is completed and the login screen appears.
+- **Steps to shut down the computer**
+  - click the start button located on the taskbar
+  - display appears showing three options: Stand by, Turn off, and restart
+  - click the turn off option on the menu
+- **Steps to use the fax machine**
+  - check the fax machine power supply and make sure that the telephone cord is plugged into a phone or jack
+  - insert the document that you wish to send into the outgoing fax tray
+  - dial the fax number to which you wish to send the document and request fax tone
+  - wait for the receving end to give you a fax tone, either automatically or manually
+  - pres the start button to send you fax
+  - look at the machine display console and see if the transmission was successful
+  - stock the fax machine with plenty of paper in the incoming fax tray for incoming fax
+  - Note wheter the fax machine has its own dedicated phone line, if none, press start to process an incoming fax.
+- **Tips to properly use tools, equipment, and paraphernalia**
+  - read and understand the manual of operation for each equipment
+  - be sure that all equipment are neither defective nor damaged
+  - used the equipment for theri intended purpose only
+  - handle all electrical tools, equipment and paraphernalia with care and caution
+  - turn off all equipment when unattended or not in use
+  - check if all power tools are properly grounded before they are used
+  - clean the equipment after use, store them properly and always keep them dry
+  - use appropriate personal protective equipment (PPE) for specific job requirements
+## Maintaining front office tools, equipment and paraphernalia
+- **Duster**
+  - <mark>is used to wipe away dust</mark> from surfaces of office tools, equipment and paraphernalia
+- **Compressed air**
+  - <mark>Is pressurized air</mark> in a tin can that blows away dust and dirt especially hard to reach spaces
+- **Electrostatic cloth**
+  - <mark>has magnetic properties that gather dust and dirt particles</mark>
+- **Lint-free cloth**
+  - <mark>is a special cleaning cloth that does not leave any link on equipment</mark>
+- **Toothpick or metal pin**
+  - <mark>serves as a framework for cotton cloth to reach deep holes</mark>
+- **Cleaning solution**
+  - <mark> is a mild detergent mixed with water and disinfectant</mark> like rubbing or isopropyl alcohol
+```diff
+- am not putting the ways to clean this yadayadayada
+```
+- **Computer**
+  - these accumulate excessive dust particles because ofstatic electricity.
+- **Printer**
+  - Printer is another output device attached to the computer
+- **Telephone**
+  - <mark>is an essential and reliable tool in front office for answering guests.</mark>
+## Storage procedures
+  - <mark>The front desk workstation itself is the safekeeping area for front office tools, equipment, and paraphernalia</mark>
+## Care of front office tools, equipment, and paraphernalia
+- **Condition of the work area**
+  - clean, cool, and dry
+  - spacious, safe, and free from obstacles or barriers
+  - provided with dividers, cabinets, and other sotrage compartments.
+- **Staff information**
+  - provided with printed materials or manuals on how to use the office tools, equipment, and paraphernalia accordingly
+  - properly trained on hwo to operate major office equipment
+- **Regular monitoring procedures**
+  - provided with monitoring checklists and forms
+  - Designated with employees responsible for the inventory and supervision of office properties
+## Proper maintenance for major office tools, equipment, and paraphernalia
+<sub>honestly am not putting anything in this, this is self explaining</sub>
+## Identifying hazards and risks in the workplace
+- **OSHC** or the </mark>occupational safety and health center</mark> is tasked to protect filipino workers againsts occuptional accidents
+- **DOLE** - <mark> Department of Labor and Employment</mark>
+- Some for the provisions in the OSHC that should be strictly followed:
+  - Registeration
+  - Security of premises
+  - Occupational Hleath and environmental control
+  - Personal Protective equipment and devices
+- **Clean Air Act of 1999**
+  - Known as <mark>RA 8749</mark>, this is designed to make sure that all filipinos have clean and safe air to breathe.
+- **Ecological Solid waste management**
+  - Known as <mark>RA 9003</mark> or the ecological solid waste management act of 2000, designed to have systematic ecological solid waste management program
+- RRR:
+  - Reduce
+  - Reuse
+  - Recycle
+- **Revised fire code of the philippines**
+  - Known as <mark>RA 9514</mark>, this ensures public safety thru prevention of all kinds of destructive fire.
+- **The Fire Code**
+  - Enumerates fire safety measures for handling, storing, manufacturing, and using hazardous materials
+- **Philippine disaster risk reduction and management act of 2010**
+  - Known as <mark>RA 10121</mark>, this aims toward the development of policies and plans and the implementation of actions and measures pertaining to all aspects of disaster
+- **Disaster**
+  - <mark>is a serious disruption fo the functions of community that adversely affects human life, property, and environment.</mark>
+- **Hazard**
+  - <mark>is any source of potential danger, damage, harm or threat.</mark>
+- **Types of hazards:**
+  - Electrical Hazards
+  - Chemical Hazrds
+  - Biologizal hazards or biohazad
+  - Physical Hazrds
+  - Ergonomical Hazards: occurs when the type fo work, body position and working conditions put strain on the body.
+- **Contingency Plan**
+  - <mark>or worst case scenario plan</mark>, is a secondary or alternative course of action.
+- **First Aid**
+  - <mark>is an assistance, help and care given to a sick or injured person</mark>
+- **Personal Hygiene**
+  - <mark>Consists of routine practices that help, promote or preserve health</mark>
+- **Good Grooming**
+  - <mark>Is making oneself neat and presentable</mark>
+
