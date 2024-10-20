@@ -86,4 +86,3 @@ Greater love has no one than this: To lay down one's life for one's friends
   - stunting the growth of our positive qualities
   - reducing the relationship into a partnership of inequality
   - creating a closed group or clique
-  - 
