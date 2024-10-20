@@ -158,6 +158,8 @@
   - Two types of passing: </mark>Air Pass and Bounce Pass</mark>
 - **Running**
   - <mark>Speed defines the best player in sport</mark>, used in offensive or defensive plays.
+- **Rebounding** 
+  - <mark>This is one of the major skills of the game</mark>
 ## Health
 <sub>dating, courtship, marriage</sub>
 - **Dating**
