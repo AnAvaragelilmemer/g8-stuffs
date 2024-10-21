@@ -6,7 +6,7 @@
   - pre-arrival
   - arrival
   - occupancy
-  - depature
+  - departure
 ## Front office tools
 - **Credit card voucher holder**
   - <mark>is used to hold the credit card during business transactions</mark> to make it easier and organized
