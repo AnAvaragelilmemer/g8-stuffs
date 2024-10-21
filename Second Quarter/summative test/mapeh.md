@@ -82,6 +82,48 @@
 ## Cantopop
 - <mark>Cantonese popular music</mark>
 - First described as "cantorock"
+## Music of Japan
+- **Hogaku**
+  - traditional music based on <mark>the early chinese and buddhist music
+- **Shimyo**
+  - <mark>Chants made on religious hymns created by buddhists
+  - Yo-Sen - <mark> Hard mode
+  - In-sen <mark> Soft mode
+- **J-Pop** <sub>(my favourite! <3)</sub>
+  - It means <mark>Japanese-Pop</mark>
+  - It started on 1990's
+## Instrumental music of japan
+- It is usually about religious festivals, work, dance, love, and regional songs.
+- **The Gaguku Orchestra**
+  - it is a <mark>Japanese orchestra.</mark>
+  - consists of wind, strings, and percussion music
+### Percussion instrument
+- **Kakko**
+  - <mark> It is a small drum whose both ends are covered with animal skin
+  - it is played with 2 sticks
+- **Kotsuzumi**
+  - It is a <mark>Shoulder hand drum used in the noh play</mark>
+- **Shimedaiko**
+  - It is a <mark>short but wide body</mark>
+  - it is played with sticks called <mark>"batchi"</mark>
+### String instrument
+- **Koto**
+  - <mark>It is a plucked table zither with 18 strings
+- **Shamisen**
+  -<mark>Is a long necked plucked instrument</mark>
+  - Has 3 strings with no frets
+- **Biwa**
+  - <mark>It is a lute pear-shaped instrument with 4 and 5 strings</mark> and frets made from wood
+### Wind instruments
+- **Shakuhachi**
+  - <mark>It is an end-blown five finger hole</mark> flute used to accompany gagaku music
+- **Hichiriki**
+  - <mark>It is a short bamboo double</mark>
+- **Sho**
+  - <mark>It is a set of 17 bamboo mouth pipes</mark>
+- **Ryūteki**
+  - <mark>It is a flute instrument</mark> (how lazy)
+<sub>Doumo arigatou, jaa ne!</sub>
 # Arts
 <sub>art can be beautiful, just like her</sub>
 ## Chinese
@@ -91,7 +133,7 @@
   - <mark>A visual design connates all parts of the image related</mark> to complement each other
 - **Calligraphy**
   - <mark>An ornamental writing</mark> usually done with a pen in the west and with a brush in china and japan
-- **Three major components of landscape**;
+- **Three major components of landscape**
   - Nature
   - Heaven
   - Humankind
