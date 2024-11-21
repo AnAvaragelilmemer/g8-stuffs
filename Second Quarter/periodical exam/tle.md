@@ -1,0 +1,235 @@
+# $$\color{#f48b91}{T}\color{#946556}{e}\color{#f48b91}{c}\color{#946556}{h}\color{#f48b91}{n}\color{#946556}{o}\color{#f48b91}{l}\color{#946556}{o}\color{#f48b91}{g}\color{#946556}{y}\color{#f48b91}{\ }\color{#946556}{a}\color{#f48b91}{n}\color{#946556}{d}\color{#f48b91}{\ }\color{#946556}{L}\color{#f48b91}{i}\color{#946556}{v}\color{#f48b91}{e}\color{#946556}{l}\color{#f48b91}{i}\color{#946556}{h}\color{#f48b91}{o}\color{#946556}{o}\color{#f48b91}{d}\color{#946556}{\ }\color{#f48b91}{E}\color{#946556}{d}\color{#f48b91}{u}\color{#946556}{c}\color{#f48b91}{a}\color{#946556}{t}\color{#f48b91}{i}\color{#946556}{o}\color{#f48b91}{n}$$
+ #f48b91 #946556
+- Its been one month since the last exam, lets see how i <mark><i>improved</i></mark>.
+## $${Performing \space Mensuration \space and \space Calculation}$$
+- **ratio**
+  - <mark>is the comparison of two different things</mark> or groups.
+- **types of seperators**:
+  - colon (:)
+  - slash (/)
+  - bar line (-)
+- **proportion**
+  - if <mark>two ratios are equal</mark> its a <i>proportion.</i>
+  - Also presented by seperators
+- **fraction**
+  - <mark>is a numeric expression</mark>
+- **numerator**
+  - Upper number in the fraction
+- **profit margin**
+  - Obtained by subtracting product price and product cost
+- **avarage daily rate**
+  - Obtained by dividing total room revenue and total number of rooms sold.
+## $${Alphabet \space of \space lines}$$
+- **line**
+  - <mark>basic element of drawing</mark>
+- **border line**
+  - <mark>thickest line</mark> that encloses the illustration
+- **visible line**
+  - <mark>clearly defines the drawing</mark>
+- **hidden line**
+  - <mark>represents the part of the drawing that is not visible</mark>
+- **extension line** (or projection line)
+  - <mark>shows the limit of the dimension</mark>
+- **dimension line**
+  - <mark>is drawn between extension lines</mark>
+- **leader line**
+  - <mark>used for indicating measurement and labeling</mark>
+- **reference line**
+  - <mark>alternate to leader line</mark>
+- **center line**
+  - <mark><font size="3">identifies the axis of the symmetrical object</font></mark>
+- **break line**
+  - <mark>indicates part of the drawing that is continuous</mark>
+- **cutting plane line**
+  - <mark> illustrates the portion of the imaginary object</mark>
+- **section line**
+  - <mark>speicifies the area of cut proportion</mark>
+- **phantom line**
+  - <mark>shows traces of the part of object</mark>
+  
+## $${\color{#f48b91}Dressmaking}$$ 
+
+- **measuring tools**
+  - are generally used in obtaining body and fabric measure.
+- **tape measure**
+  - <mark>60 inch device used to take body measurements</mark>
+- **gauge**
+  - <mark>6-inch device with a mobale indicator</mark>
+- **ruler**
+  - <mark>12 inch device marked off in inches and centimeters</mark>
+- **yardstick** (or meterstick)
+  - <mark>used to measure fabric length and check grain line</mark>
+- **drafting tools**
+  - faciliate patternmaking
+- **l-square**
+  - <mark>also called <i>tailor's square</i> and used to draw perpendicular lines
+- **hip curve**
+  - <mark>is also called <i>curve stick</i> and is used to shape slighty curved points
+- **french curve**
+  - <mark> is used to shape armholes</mark>
+- **cutting tools**
+  - are used to cut, trim, and clip fabrics
+- **cutting Shears**
+  - <mark>is a 8inch long scissors with bend handle
+- **trimming scissors**
+  - <mark>6 inch long scisssors used to trim</mark>
+- **pinking shears**
+  - <mark>scissors with zigzag blades</mark>
+- **seam ripper**
+  - <mark> handy tool to take out seams</mark>
+- **marking tools**
+  - facilitate the transfer of construction details
+- **tailor's check**
+  - <mark> thin piece of hard chalk</mark>
+- **dressmaker's tracing paper**
+  - <mark> is carbon-like paper </mark>
+- **tracing wheel**
+  - <mark>is used with dressmaker's tracing paper to transfer markings from patterns onto fabric</mark>
+- **sewing aids or materials**
+  - <mark> are handy devices that make sewing easy and fast</mark>
+- **needles**
+  - are used to make stitches, baste, sew buttons
+- **thimble**
+  - <mark>is made of either plastic or metal</mark>
+- **pin**
+  - <mark>used to baste or join seams temporarily
+- **pin cushion**
+  - <mark> is a cotton-stuffed sewing aid used to sharpen and remove rust from needles</mark>
+- **thread**
+  - <mark> is a thin strang of material used to two or more pieces of fabric</mark>
+- **needle threader**
+  - <mark>is a small device used to help put the thread</mark>
+- **sewing box**
+  - <mark> is a utility box used to organize and keep sewing tools</mark>
+- pressing tools yada yada yada
+  - are used to remove wrinkles
+- **flat iron**
+  - <mark>is an eletric equipment or appliance used to remove wrinkles on fabric</mark>
+- **steam iron**
+  - <mark> is a type of iron that contains a compartment where water is turned into steam</mark>
+- **ironing board**
+  - <mark> is made of wood or stell with snuf fitting padding to press fabric</mark>
+- **tailor's ham**
+  - <mark>is a tightly stuffed pillow in the shape of a ham</mark>
+## $${Describing \space types \space and \space uses \space of \space sewing \space machine}$$
+- **sewing machine**
+  - <mark>is used to stitch fabric and other materials together with thread to form a garment</mark>
+- **Treadle sewing machine**
+  - <mark>is a lockstitch sewing machine operated by foot</mark>
+- **high-speed lockstitch machine**
+  - <mark>is a self-oiling lockstitch machine used in clothing industries</mark>
+- **computer-controlled high-speed lockstitch machine** (wtf is this variant)
+  - <mark> is a modern sewing machine that is equipped with an computer</mark>
+- **overlock machine**
+  - <mark> this type of sewing machine is used to finish seam edges </mark>
+- **embroidery machine**
+  - <mark> is commonly seen in the fashion industry and used to decorate garments by creating ornamental and embroidery stitches</mark>
+- **buttonholder machine**
+  - is excellent for sewing pants jeans and jackets for both ladies and men
+- **button-attaching machine**
+  - <mark>is an industrial machine used to attach buttons to the garments</mark>
+- **bartacking machine**
+  - <mark>is an industrial machine used to strengthen parts of garments</mark>
+- **handheld sewing machine**
+  - <mark> is a stapler-like sewing machine that is very handy to carry</mark>
+- **spool pin**
+  - <mark>is the part that holds the spool of thread in place</mark>
+- **thread guide**
+  - <mark>holds the upper thread in placae from the spool to the needle
+- **Tension regulator**
+  - <mark>is a round metal plate where the thread is passed and regulated</mark>
+- **presser foot**
+  - <mark> holds the material in place while running the sewing machine</mark>
+- **presser bar**
+  - <mark> hides the presser foot</mark>
+- **presser bar lifter**
+  - <mark> is a lever attached to the presser bar used to raise and lower the presser foot</mark>
+- **needle clamp**
+  - <mark>is a screw to keep the needle in p[lace in the needle bar</mark>
+- **needle**
+  - <mark> is the instrument that carries the upper thread thru the fabric to complete the stitch</mark>
+- **feed dog**
+  - <mark>this moves the cloth forward while sewing
+- **throat plate**
+  - <mark>is the plate directly under the presser foot thru which the needle passes
+- **slide plate**
+  - <mark> is a flat plate that provides access to the bobbin case
+- **bobbin winder**
+  - <mark> is the mechanism used to wind the thread on the bobbin</mark>
+- **stitch regulator**
+  - <mark> controls the length of the sititches</mark>
+- **Balance wheel**
+  - <mark> can be used to manually move the needle up and down</mark>
+- **bobbin case**
+  - <mark>holds the bobbin and contains mechnism that controls the tension of the lower thread</mark>
+- **bobbin**
+  - <mark> holds the lower thread</mark>
+- **teadle**
+  - <mark> drives the band wheel when operated by the feet</mark>
+- **foot controller**
+  - <mark>is used for electric-driven sewing machine and controls the speed of the sewing machine</mark>
+## $${Assesing \space the \space appropriateness \space of \space design}$$
+- **Design**
+  - <mark> defined as the arrangement of elements or features</mark>
+- **Line** (again-)
+  - <mark>is a thin continuous mark on a surface</mark>
+- **shape**
+  - <mark>is formed by joining the different types of lines</mark>
+- **space**
+  - <mark> is an interval of distance between two points or pattern on a fabric</mark>
+- **texture**
+  - <mark>pertains to the weight< appearance< and feel of a woven fabric</mark>
+- **color**
+  - <mark> is a very important element in designing a garment</mark>
+- **Balance**
+  - <mark> refers to the visual weight of a design</mark>
+    - **symmetrical balance**
+      - also known as <i>formal balance</i> and this can be described as having equal weight on equal sides of a garment
+    - **asymmetrical balance**
+        - also known as <i>informal balance</i> and involves placement of objects in a way that will allow objects of varying visual weight
+- **Proportion** (again and again hahaha)
+  - <mark>refers to the relationship between parts of a design principle</mark>
+- **Emphasis**
+  - <mark>is the center of interest</mark>
+- **rhythm**
+  - <mark>refers to the harmonious sequence that creates a sense of movement in design</mark>
+- **Unity**
+  - <mark>is achieved when all elements of design are in agreement or work together</mark>
+- **Hue**
+  - <mark> it refers to a particular shade of a color</mark>
+- **Value**
+  - <mark> is the lightness or darkness of a color</mark>
+- **Intensity**
+  - <mark> refers to the strength or sharpness of a color</mark>
+- **Primary**
+  - <mark>is red blue and yellow
+- **Secondary colors**
+  - <mark>are produced by combining primary colors</mark>
+- **Tertiary colors**
+  - <mark>obtained when primary and secondary colors are mixed</mark>
+- **Monochromatic**
+  - <mark> uses one color in different shades</mark>
+- **Analogous**
+  - <mark>uses three colors that are side by side on the color wheel</mark>
+- **Complementary**
+  - <mark>consist of colors that are opposite to each other on the color wheel</mark>
+- **Split-complementary**
+  - <mark> is a variation of the complementary color scheme whereby in addition to the base color< two colors adjacent to its complement are utilized</mark>
+- **Triad**
+  - <mark> uses three colors that are evenly spaced around the color wheel</mark>
+- **Warm colors**
+  - <mark> can make people feel really warm</mark>
+- **Cool colors**
+  - <mark> make the body look larger</mark>
+- **dark colors**
+  - <mark> can make a person look slimmer</mark>
+- **single color**
+  - <mark>can make a person look thinner and taller</mark>
+## my comment
+honestly, tle used to be my favourite, but with more definitions, its slowly becoming my 2nd least favourite, first being Araling Panlipunan, if i manage to review everything out of this, it might be my only subject that i will review in the first day due to how many the definitions are there, also on the technology and livelihood education, i was inspired by the onimai text and decided to make one, it took long but worth it, now let me sleep
+
+
+![mihari tired ( - ⌓ - )](https://github.com/AnAvaragelilmemer/g8-stuffs/blob/main/image.png)
+  
+
+  
