@@ -125,3 +125,41 @@ theres actually music of japan in the pointers to review? how odd, learn it ![by
 - **running** - matering this skill will allow a player to advance from one base to the other
   - **speed running**
   - **agility running**
+# health
+## pre-pregnancy (aw)
+- **blighted ovum** this is when the implanted fertilized egg fails to further develop into an embryo
+- **ectopic pregnancy** known as a tubal pregnancy, the fertilized egg implants outside the uterus
+- **PCOS** hormonal imbalance in the sex hormones estrogen
+- **myoma** known as fibroid, a benign tumor that develops in or around the uterus
+## during-pregnancy
+- **preeclampsia** usually occurs and affects pregnant women during the second half of pregnancy
+- **placenta previa** an obstetric complication that is generally defined as the implantation of the placenta
+- **placenta** is an temporary organ that joins the mother and the fetus and transfers oxy
+- **diabetes** is where the blood has too much glucose
+- **Suhi** or breech position is the normal and safest fetal postion for birth
+  - **complete breech** the buttocks are down near the birh canal
+  - **footling breech** one leg or both legs are stretched out below the buttocks
+  - **frank breech** the buttocks are in place to come out first
+## post pregnancy
+- **postpartum disorder** new mothers experince baby blues after child birth
+- **sepsis** wherein the body has an overwhelming immune response to a bacterial infection
+- **tubal ligation** major surgery which can be performed immediately after childbirth
+- **manghihilot** is often an older and respected woman who considers herself as a private health care practitioner
+## fixed marriages
+- **fixed marriages**: this is union between bride and groom who are selected by other parties
+  - **pikot**: forced marriage or shotgun marriage where one marries against him/her freewill, usually done by parents
+  - **elope** when someone runs away with a lover for the intention with getting married
+- **dowry** process wherein the property of the parent is distributed to a daughter at her marriage
+## responsible parenthood
+- **problem solving**: a successful family has the ability to resolve problems on a level that maintains effective family functioning
+- **effective communication**: includes clear and direct communication between and among members of the family
+- **family roles**: it is important that clear roles and responsibilities are well established
+- **affective responsiveness**: this is the family's ability to respond emotionally
+- **behaviour control** this refers to patterns of behavior that the family adopts in dealing with family situations
+## types of family
+- **nuclear family** includes a pair of adults and their children
+- **single-parent family**: includes one parent raising one or more children
+- **extended family**: two or more adults who are saved either by blood or manage living under the same family relatives
+- **childless family** includes a pair of adults but no children
+- **blended family** includes two divorced people who bring with them their children from the old families and decide to live together
+- **RA 10354**: provides a univeresal access to reproductive health care services and information
